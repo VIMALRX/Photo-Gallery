@@ -1,0 +1,21 @@
+table{
+    color: black;
+    text-align: center;
+    border-collapse: collapse;
+}
+body{
+    color:black;
+}
+td{
+    padding: 30px;
+}
+.black{
+    background-color: black;
+}
+.name{
+    padding-left: 350px;
+    padding-top: 50px;
+}
+/* .img{
+    margin: 25px;
+} */
